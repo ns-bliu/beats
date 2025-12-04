@@ -10886,11 +10886,11 @@ third-party archives.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/docker/docker
-Version: v27.3.1+incompatible
+Version: v28.0.0+incompatible
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/docker/docker@v27.3.1+incompatible/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/docker/docker@v28.0.0+incompatible/LICENSE:
 
 
                                  Apache License
@@ -12024,11 +12024,11 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/eclipse/paho.mqtt.golang
-Version: v1.3.5
+Version: v1.5.1
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/eclipse/paho.mqtt.golang@v1.3.5/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/eclipse/paho.mqtt.golang@v1.5.1/LICENSE:
 
 This project is dual licensed under the Eclipse Public License 1.0 and the
 Eclipse Distribution License 1.0 as described in the epl-v10 and edl-v10 files.
@@ -25499,11 +25499,11 @@ THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : golang.org/x/crypto
-Version: v0.36.0
+Version: v0.45.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/golang.org/x/crypto@v0.36.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/golang.org/x/crypto@v0.45.0/LICENSE:
 
 Copyright 2009 The Go Authors.
 
